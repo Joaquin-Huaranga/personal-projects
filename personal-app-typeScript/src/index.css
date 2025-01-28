@@ -1,4 +1,0 @@
-/* src/index.css */
-@tailwind base;       /* Resetea estilos por defecto */
-@tailwind components; /* Componentes predefinidos */
-@tailwind utilities;  /* Utilidades como margin, padding, etc. */
